@@ -1,14 +1,15 @@
 :root{
   --fonte: 'Montserrat', sans-serif;
-  --branco: #FFFFFF;
-  --preto: #000000;
-  --cinza: #e2e2e2
+  --branco: #Fffff;
+  --creme: ##f8f1e9;
+  --preto: #1C1F26;
+  --cinza: #e2ddd9
 }
 
 body {
   margin: 0;
   font-family: var(--fonte);
-  background-color: var(--branco);
+  background-color: var(--creme);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
